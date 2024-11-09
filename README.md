@@ -11,5 +11,5 @@
 - [Google Cybersecurity](https://coursera.org/share/7beed4c7b0e8521fabc25a18e7fd579b)
 
 
-<h2> 🤳 Connect with me:</h2>
+
 
