@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tedarrell! Passionate Cybersecurity Analyst</h1>
+<h1>Hi, I'm Tedarrell, an IT Professional</h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
